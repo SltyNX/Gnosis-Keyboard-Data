@@ -1,0 +1,20 @@
+{
+  "id": "dvorak",
+  "name": "Dvorak",
+  "language": "English",
+  "spaceLabel": "DVORAK",
+  "langLabel": "EN",
+  "rows": [
+    "pyfgcrl",
+    "aoeuidhtns",
+    "qjkxbmwvz"
+  ],
+  "secondaries": {
+    "p": "1", "y": "2", "f": "3", "g": "4", "c": "5",
+    "r": "6", "l": "7",
+    "a": "@", "o": "#", "e": "$", "u": "%", "i": "&",
+    "d": "-", "h": "+", "t": "(", "n": ")", "s": "/",
+    "q": "8", "j": "9", "k": "0", "x": "*", "b": "\"",
+    "m": "'", "w": ":", "v": ";", "z": "?"
+  }
+}

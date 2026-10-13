@@ -1,0 +1,37 @@
+[
+  {
+    "id": "qwertz",
+    "name": "QWERTZ (German)",
+    "description": "Standard German keyboard layout",
+    "language": "German",
+    "file": "qwertz.json"
+  },
+  {
+    "id": "azerty",
+    "name": "AZERTY (French)",
+    "description": "Standard French keyboard layout",
+    "language": "French",
+    "file": "azerty.json"
+  },
+  {
+    "id": "dvorak",
+    "name": "Dvorak",
+    "description": "Ergonomic alternative English layout",
+    "language": "English",
+    "file": "dvorak.json"
+  },
+  {
+    "id": "colemak",
+    "name": "Colemak",
+    "description": "Modern ergonomic English layout",
+    "language": "English",
+    "file": "colemak.json"
+  },
+  {
+    "id": "deva",
+    "name": "देवनागरी (Hindi Native)",
+    "description": "Native Hindi Devanagari script layout",
+    "language": "Hindi",
+    "file": "deva.json"
+  }
+]

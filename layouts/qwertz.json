@@ -1,0 +1,20 @@
+{
+  "id": "qwertz",
+  "name": "QWERTZ (German)",
+  "language": "German",
+  "spaceLabel": "LEER",
+  "langLabel": "DE",
+  "rows": [
+    "qwertzuiop",
+    "asdfghjkl",
+    "yxcvbnm"
+  ],
+  "secondaries": {
+    "q": "1", "w": "2", "e": "3", "r": "4", "t": "5",
+    "z": "6", "u": "7", "i": "8", "o": "9", "p": "0",
+    "a": "@", "s": "#", "d": "$", "f": "%", "g": "&",
+    "h": "-", "j": "+", "k": "(", "l": ")",
+    "y": "*", "x": "\"", "c": "'", "v": ":", "b": ";",
+    "n": "!", "m": "?"
+  }
+}

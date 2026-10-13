@@ -1,0 +1,16 @@
+{
+  "id": "deva",
+  "name": "देवनागरी (Hindi Native)",
+  "language": "Hindi",
+  "spaceLabel": "हिन्दी",
+  "langLabel": "हिन्दी",
+  "isNonLatin": true,
+  "rows": [
+    "अआइईउऊएऐओऔ",
+    "कखगघङचछजझञ",
+    "टठडढणतथदधन",
+    "पफबभमयरलवश",
+    "षसहंँः्"
+  ],
+  "secondaries": {}
+}

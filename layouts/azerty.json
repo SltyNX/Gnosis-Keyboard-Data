@@ -1,0 +1,20 @@
+{
+  "id": "azerty",
+  "name": "AZERTY (French)",
+  "language": "French",
+  "spaceLabel": "ESPACE",
+  "langLabel": "FR",
+  "rows": [
+    "azertyuiop",
+    "qsdfghjklm",
+    "wxcvbn"
+  ],
+  "secondaries": {
+    "a": "1", "z": "2", "e": "3", "r": "4", "t": "5",
+    "y": "6", "u": "7", "i": "8", "o": "9", "p": "0",
+    "q": "@", "s": "#", "d": "$", "f": "%", "g": "&",
+    "h": "-", "j": "+", "k": "(", "l": ")", "m": "/",
+    "w": "*", "x": "\"", "c": "'", "v": ":", "b": ";",
+    "n": "!"
+  }
+}

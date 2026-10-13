@@ -1,0 +1,832 @@
+﻿[
+    {
+        "name":  "Accuratist",
+        "file":  "Accuratist.ttf",
+        "size":  76972
+    },
+    {
+        "name":  "ACFilmstrip",
+        "file":  "ACFilmstrip.ttf",
+        "size":  72580
+    },
+    {
+        "name":  "Aclonica",
+        "file":  "Aclonica.ttf",
+        "size":  68784
+    },
+    {
+        "name":  "AlmonteSnow",
+        "file":  "AlmonteSnow.ttf",
+        "size":  77500
+    },
+    {
+        "name":  "AlphaClouds",
+        "file":  "AlphaClouds.ttf",
+        "size":  135128
+    },
+    {
+        "name":  "AlphaFlowers",
+        "file":  "AlphaFlowers.ttf",
+        "size":  390356
+    },
+    {
+        "name":  "AlphaWood",
+        "file":  "AlphaWood.ttf",
+        "size":  154044
+    },
+    {
+        "name":  "Amarante",
+        "file":  "Amarante.ttf",
+        "size":  148116
+    },
+    {
+        "name":  "Ampad3D2",
+        "file":  "Ampad3D2.ttf",
+        "size":  53604
+    },
+    {
+        "name":  "AtkinsonHyperlegible Bold",
+        "file":  "AtkinsonHyperlegible-Bold.ttf",
+        "size":  54444
+    },
+    {
+        "name":  "AtkinsonHyperlegible BoldItalic",
+        "file":  "AtkinsonHyperlegible-BoldItalic.ttf",
+        "size":  54608
+    },
+    {
+        "name":  "AtkinsonHyperlegible Italic",
+        "file":  "AtkinsonHyperlegible-Italic.ttf",
+        "size":  54200
+    },
+    {
+        "name":  "AtkinsonHyperlegible Regular",
+        "file":  "AtkinsonHyperlegible-Regular.ttf",
+        "size":  53504
+    },
+    {
+        "name":  "Bariol Regular",
+        "file":  "Bariol-Regular.ttf",
+        "size":  103232
+    },
+    {
+        "name":  "BetsyFlanagan",
+        "file":  "BetsyFlanagan.ttf",
+        "size":  37404
+    },
+    {
+        "name":  "BigCheese",
+        "file":  "BigCheese.ttf",
+        "size":  285760
+    },
+    {
+        "name":  "Brandayolq",
+        "file":  "Brandayolq.ttf",
+        "size":  74312
+    },
+    {
+        "name":  "BudmoJiggler",
+        "file":  "BudmoJiggler.ttf",
+        "size":  130636
+    },
+    {
+        "name":  "BunnyRabbits",
+        "file":  "BunnyRabbits.ttf",
+        "size":  329876
+    },
+    {
+        "name":  "Cagliostro Regular",
+        "file":  "Cagliostro-Regular.ttf",
+        "size":  37820
+    },
+    {
+        "name":  "Cat",
+        "file":  "Cat.ttf",
+        "size":  44840
+    },
+    {
+        "name":  "CFBadNews",
+        "file":  "CFBadNews.ttf",
+        "size":  309312
+    },
+    {
+        "name":  "CFOneTwoTrees",
+        "file":  "CFOneTwoTrees.ttf",
+        "size":  244128
+    },
+    {
+        "name":  "Cocon",
+        "file":  "Cocon.ttf",
+        "size":  27700
+    },
+    {
+        "name":  "Comfortaa",
+        "file":  "Comfortaa.ttf",
+        "size":  201292
+    },
+    {
+        "name":  "Comic Sans",
+        "file":  "Comic_Sans.ttf",
+        "size":  111284
+    },
+    {
+        "name":  "Concentrate",
+        "file":  "Concentrate.ttf",
+        "size":  10292
+    },
+    {
+        "name":  "CookieRun Bold",
+        "file":  "CookieRun-Bold.otf",
+        "size":  978824
+    },
+    {
+        "name":  "CookieRun Regular",
+        "file":  "CookieRun-Regular.otf",
+        "size":  948700
+    },
+    {
+        "name":  "Coolstory Regular",
+        "file":  "Coolstory-Regular.ttf",
+        "size":  27852
+    },
+    {
+        "name":  "CRACKMAN",
+        "file":  "CRACKMAN.ttf",
+        "size":  70032
+    },
+    {
+        "name":  "DiscoMidnight",
+        "file":  "DiscoMidnight.ttf",
+        "size":  700148
+    },
+    {
+        "name":  "EasterBunny",
+        "file":  "EasterBunny.ttf",
+        "size":  184052
+    },
+    {
+        "name":  "EditPoints",
+        "file":  "EditPoints.ttf",
+        "size":  186872
+    },
+    {
+        "name":  "EditPointsFilled",
+        "file":  "EditPointsFilled.ttf",
+        "size":  152004
+    },
+    {
+        "name":  "ELRIOTT2",
+        "file":  "ELRIOTT2.ttf",
+        "size":  100380
+    },
+    {
+        "name":  "Exotwo",
+        "file":  "Exotwo.ttf",
+        "size":  158632
+    },
+    {
+        "name":  "Fibography",
+        "file":  "Fibography.ttf",
+        "size":  816500
+    },
+    {
+        "name":  "Fifa 2018",
+        "file":  "Fifa_2018.ttf",
+        "size":  70232
+    },
+    {
+        "name":  "Floorlight",
+        "file":  "Floorlight.ttf",
+        "size":  23340
+    },
+    {
+        "name":  "Fucek",
+        "file":  "Fucek.ttf",
+        "size":  83752
+    },
+    {
+        "name":  "GautsMotelUpperRight",
+        "file":  "GautsMotelUpperRight.ttf",
+        "size":  45796
+    },
+    {
+        "name":  "GoogleSans Italic",
+        "file":  "GoogleSans-Italic.ttf",
+        "size":  611668
+    },
+    {
+        "name":  "GoogleSans Regular",
+        "file":  "GoogleSans-Regular.ttf",
+        "size":  588260
+    },
+    {
+        "name":  "GoogleSansClock Regular",
+        "file":  "GoogleSansClock-Regular.ttf",
+        "size":  131700
+    },
+    {
+        "name":  "GoogleSansFlex Regular",
+        "file":  "GoogleSansFlex-Regular.ttf",
+        "size":  4607592
+    },
+    {
+        "name":  "GoogleSansFlexClock Regular",
+        "file":  "GoogleSansFlexClock-Regular.ttf",
+        "size":  326888
+    },
+    {
+        "name":  "GrandHotel",
+        "file":  "GrandHotel.ttf",
+        "size":  65012
+    },
+    {
+        "name":  "Hanged",
+        "file":  "Hanged.ttf",
+        "size":  39556
+    },
+    {
+        "name":  "HarmonyOS Sans",
+        "file":  "HarmonyOS-Sans.ttf",
+        "size":  324176
+    },
+    {
+        "name":  "HarmonyOS Sans Italic",
+        "file":  "HarmonyOS-Sans-Italic.ttf",
+        "size":  306004
+    },
+    {
+        "name":  "hercules text",
+        "file":  "hercules-text.ttf",
+        "size":  59476
+    },
+    {
+        "name":  "HotSweat",
+        "file":  "HotSweat.ttf",
+        "size":  455904
+    },
+    {
+        "name":  "Inter Regular",
+        "file":  "Inter-Regular.ttf",
+        "size":  862936
+    },
+    {
+        "name":  "ios",
+        "file":  "ios.ttf",
+        "size":  73992
+    },
+    {
+        "name":  "JetBrainsMono Bold",
+        "file":  "JetBrainsMono-Bold.ttf",
+        "size":  277828
+    },
+    {
+        "name":  "JetBrainsMono BoldItalic",
+        "file":  "JetBrainsMono-BoldItalic.ttf",
+        "size":  279832
+    },
+    {
+        "name":  "JetBrainsMono ExtraBold",
+        "file":  "JetBrainsMono-ExtraBold.ttf",
+        "size":  279404
+    },
+    {
+        "name":  "JetBrainsMono ExtraBoldItalic",
+        "file":  "JetBrainsMono-ExtraBoldItalic.ttf",
+        "size":  281616
+    },
+    {
+        "name":  "JetBrainsMono ExtraLight",
+        "file":  "JetBrainsMono-ExtraLight.ttf",
+        "size":  274144
+    },
+    {
+        "name":  "JetBrainsMono ExtraLightItalic",
+        "file":  "JetBrainsMono-ExtraLightItalic.ttf",
+        "size":  274240
+    },
+    {
+        "name":  "JetBrainsMono Italic",
+        "file":  "JetBrainsMono-Italic.ttf",
+        "size":  276840
+    },
+    {
+        "name":  "JetBrainsMono Light",
+        "file":  "JetBrainsMono-Light.ttf",
+        "size":  276452
+    },
+    {
+        "name":  "JetBrainsMono LightItalic",
+        "file":  "JetBrainsMono-LightItalic.ttf",
+        "size":  277104
+    },
+    {
+        "name":  "JetBrainsMono Medium",
+        "file":  "JetBrainsMono-Medium.ttf",
+        "size":  273860
+    },
+    {
+        "name":  "JetBrainsMono MediumItalic",
+        "file":  "JetBrainsMono-MediumItalic.ttf",
+        "size":  276804
+    },
+    {
+        "name":  "JetBrainsMono Regular",
+        "file":  "JetBrainsMono-Regular.ttf",
+        "size":  273900
+    },
+    {
+        "name":  "JetBrainsMono SemiBold",
+        "file":  "JetBrainsMono-SemiBold.ttf",
+        "size":  277092
+    },
+    {
+        "name":  "JetBrainsMono SemiBoldItalic",
+        "file":  "JetBrainsMono-SemiBoldItalic.ttf",
+        "size":  279828
+    },
+    {
+        "name":  "JetBrainsMono Thin",
+        "file":  "JetBrainsMono-Thin.ttf",
+        "size":  270112
+    },
+    {
+        "name":  "JetBrainsMono ThinItalic",
+        "file":  "JetBrainsMono-ThinItalic.ttf",
+        "size":  272984
+    },
+    {
+        "name":  "Karamuruh",
+        "file":  "Karamuruh.ttf",
+        "size":  779352
+    },
+    {
+        "name":  "KGOnlyHope",
+        "file":  "KGOnlyHope.ttf",
+        "size":  99180
+    },
+    {
+        "name":  "Kingthings",
+        "file":  "Kingthings.ttf",
+        "size":  31104
+    },
+    {
+        "name":  "Linotte Bold",
+        "file":  "Linotte-Bold.ttf",
+        "size":  84268
+    },
+    {
+        "name":  "Linotte Light",
+        "file":  "Linotte-Light.ttf",
+        "size":  85212
+    },
+    {
+        "name":  "Linotte Regular",
+        "file":  "Linotte-Regular.ttf",
+        "size":  83772
+    },
+    {
+        "name":  "Linotte SemiBold",
+        "file":  "Linotte-SemiBold.ttf",
+        "size":  83752
+    },
+    {
+        "name":  "LittleBunny",
+        "file":  "LittleBunny.ttf",
+        "size":  184056
+    },
+    {
+        "name":  "LMSClifford",
+        "file":  "LMSClifford.ttf",
+        "size":  136280
+    },
+    {
+        "name":  "LowerAtmosphere",
+        "file":  "LowerAtmosphere.ttf",
+        "size":  84384
+    },
+    {
+        "name":  "MADE Evolve Sans Bold",
+        "file":  "MADE_Evolve_Sans_Bold.ttf",
+        "size":  62732
+    },
+    {
+        "name":  "MADE Evolve Sans Bold EVO",
+        "file":  "MADE_Evolve_Sans_Bold_EVO.ttf",
+        "size":  65084
+    },
+    {
+        "name":  "MADE Evolve Sans Light",
+        "file":  "MADE_Evolve_Sans_Light.ttf",
+        "size":  77236
+    },
+    {
+        "name":  "MADE Evolve Sans Light EVO",
+        "file":  "MADE_Evolve_Sans_Light_EVO.ttf",
+        "size":  76660
+    },
+    {
+        "name":  "MADE Evolve Sans Medium",
+        "file":  "MADE_Evolve_Sans_Medium.ttf",
+        "size":  68156
+    },
+    {
+        "name":  "MADE Evolve Sans Medium EVO",
+        "file":  "MADE_Evolve_Sans_Medium_EVO.ttf",
+        "size":  69032
+    },
+    {
+        "name":  "MADE Evolve Sans Regular",
+        "file":  "MADE_Evolve_Sans_Regular.ttf",
+        "size":  66404
+    },
+    {
+        "name":  "MADE Evolve Sans Regular EVO",
+        "file":  "MADE_Evolve_Sans_Regular_EVO.ttf",
+        "size":  67452
+    },
+    {
+        "name":  "MessingLettern",
+        "file":  "MessingLettern.ttf",
+        "size":  120520
+    },
+    {
+        "name":  "MonbijouxClownpiece",
+        "file":  "MonbijouxClownpiece.ttf",
+        "size":  19312
+    },
+    {
+        "name":  "MotoMilkyStacked Regular",
+        "file":  "MotoMilkyStacked-Regular.ttf",
+        "size":  3740
+    },
+    {
+        "name":  "Ndot 57 Aligned",
+        "file":  "Ndot-57-Aligned.otf",
+        "size":  23948
+    },
+    {
+        "name":  "NDot55Caps",
+        "file":  "NDot55Caps.otf",
+        "size":  17348
+    },
+    {
+        "name":  "NDot57Caps",
+        "file":  "NDot57Caps.otf",
+        "size":  25420
+    },
+    {
+        "name":  "Ndot77JPExtended",
+        "file":  "Ndot77JPExtended.ttf",
+        "size":  14892396
+    },
+    {
+        "name":  "NeonDisco",
+        "file":  "NeonDisco.ttf",
+        "size":  66552
+    },
+    {
+        "name":  "NINJAS",
+        "file":  "NINJAS.ttf",
+        "size":  73896
+    },
+    {
+        "name":  "Nokia Pure",
+        "file":  "Nokia_Pure.ttf",
+        "size":  437152
+    },
+    {
+        "name":  "ntype82",
+        "file":  "ntype82.ttf",
+        "size":  39724
+    },
+    {
+        "name":  "Nunito Bold",
+        "file":  "Nunito-Bold.ttf",
+        "size":  176492
+    },
+    {
+        "name":  "Nunito Regular",
+        "file":  "Nunito-Regular.ttf",
+        "size":  172236
+    },
+    {
+        "name":  "OnePlusSans Black",
+        "file":  "OnePlusSans-Black.ttf",
+        "size":  73484
+    },
+    {
+        "name":  "OnePlusSans BlackItalic",
+        "file":  "OnePlusSans-BlackItalic.ttf",
+        "size":  73968
+    },
+    {
+        "name":  "OnePlusSans Bold",
+        "file":  "OnePlusSans-Bold.ttf",
+        "size":  73484
+    },
+    {
+        "name":  "OnePlusSans BoldItalic",
+        "file":  "OnePlusSans-BoldItalic.ttf",
+        "size":  73968
+    },
+    {
+        "name":  "OnePlusSans Italic",
+        "file":  "OnePlusSans-Italic.ttf",
+        "size":  75556
+    },
+    {
+        "name":  "OnePlusSans Light",
+        "file":  "OnePlusSans-Light.ttf",
+        "size":  71356
+    },
+    {
+        "name":  "OnePlusSans LightItalic",
+        "file":  "OnePlusSans-LightItalic.ttf",
+        "size":  75572
+    },
+    {
+        "name":  "OnePlusSans Medium",
+        "file":  "OnePlusSans-Medium.ttf",
+        "size":  72308
+    },
+    {
+        "name":  "OnePlusSans MediumItalic",
+        "file":  "OnePlusSans-MediumItalic.ttf",
+        "size":  77212
+    },
+    {
+        "name":  "OnePlusSans Regular",
+        "file":  "OnePlusSans-Regular.ttf",
+        "size":  71620
+    },
+    {
+        "name":  "OnePlusSans Thin",
+        "file":  "OnePlusSans-Thin.ttf",
+        "size":  73564
+    },
+    {
+        "name":  "OnePlusSans ThinItalic",
+        "file":  "OnePlusSans-ThinItalic.ttf",
+        "size":  77296
+    },
+    {
+        "name":  "Oswald Bold",
+        "file":  "Oswald-Bold.ttf",
+        "size":  74412
+    },
+    {
+        "name":  "Oswald BoldItalic",
+        "file":  "Oswald-BoldItalic.ttf",
+        "size":  90144
+    },
+    {
+        "name":  "Oswald Light",
+        "file":  "Oswald-Light.ttf",
+        "size":  71576
+    },
+    {
+        "name":  "Oswald LightItalic",
+        "file":  "Oswald-LightItalic.ttf",
+        "size":  77088
+    },
+    {
+        "name":  "Oswald Medium",
+        "file":  "Oswald-Medium.ttf",
+        "size":  75668
+    },
+    {
+        "name":  "Oswald MediumItalic",
+        "file":  "Oswald-MediumItalic.ttf",
+        "size":  90960
+    },
+    {
+        "name":  "Oswald Regular",
+        "file":  "Oswald-Regular.ttf",
+        "size":  81076
+    },
+    {
+        "name":  "Oswald RegularItalic",
+        "file":  "Oswald-RegularItalic.ttf",
+        "size":  91104
+    },
+    {
+        "name":  "Pinewood",
+        "file":  "Pinewood.ttf",
+        "size":  240600
+    },
+    {
+        "name":  "pixelwars",
+        "file":  "pixelwars.ttf",
+        "size":  99564
+    },
+    {
+        "name":  "PlaidEvent",
+        "file":  "PlaidEvent.ttf",
+        "size":  197984
+    },
+    {
+        "name":  "PlantsLetters",
+        "file":  "PlantsLetters.ttf",
+        "size":  767056
+    },
+    {
+        "name":  "Play Bold",
+        "file":  "Play-Bold.ttf",
+        "size":  194848
+    },
+    {
+        "name":  "Play Regular",
+        "file":  "Play-Regular.ttf",
+        "size":  183928
+    },
+    {
+        "name":  "Quando",
+        "file":  "Quando.ttf",
+        "size":  119688
+    },
+    {
+        "name":  "QuickSouth",
+        "file":  "QuickSouth.ttf",
+        "size":  58976
+    },
+    {
+        "name":  "Redressed",
+        "file":  "Redressed.ttf",
+        "size":  79220
+    },
+    {
+        "name":  "ReemKufi",
+        "file":  "ReemKufi.ttf",
+        "size":  58312
+    },
+    {
+        "name":  "REMPONK",
+        "file":  "REMPONK.ttf",
+        "size":  195280
+    },
+    {
+        "name":  "Roboto Regular",
+        "file":  "Roboto-Regular.ttf",
+        "size":  2371712
+    },
+    {
+        "name":  "RobotoCondensed Bold",
+        "file":  "RobotoCondensed-Bold.ttf",
+        "size":  303944
+    },
+    {
+        "name":  "RobotoCondensed BoldItalic",
+        "file":  "RobotoCondensed-BoldItalic.ttf",
+        "size":  330504
+    },
+    {
+        "name":  "RobotoCondensed Italic",
+        "file":  "RobotoCondensed-Italic.ttf",
+        "size":  329372
+    },
+    {
+        "name":  "RobotoCondensed Light",
+        "file":  "RobotoCondensed-Light.ttf",
+        "size":  302300
+    },
+    {
+        "name":  "RobotoCondensed LightItalic",
+        "file":  "RobotoCondensed-LightItalic.ttf",
+        "size":  332504
+    },
+    {
+        "name":  "RobotoCondensed Medium",
+        "file":  "RobotoCondensed-Medium.ttf",
+        "size":  303604
+    },
+    {
+        "name":  "RobotoCondensed MediumItalic",
+        "file":  "RobotoCondensed-MediumItalic.ttf",
+        "size":  330348
+    },
+    {
+        "name":  "RobotoCondensed Regular",
+        "file":  "RobotoCondensed-Regular.ttf",
+        "size":  300664
+    },
+    {
+        "name":  "RobotoFlex Regular",
+        "file":  "RobotoFlex-Regular.ttf",
+        "size":  1775480
+    },
+    {
+        "name":  "Romantiques",
+        "file":  "Romantiques.ttf",
+        "size":  312360
+    },
+    {
+        "name":  "Rookery Bold",
+        "file":  "Rookery-Bold.otf",
+        "size":  334820
+    },
+    {
+        "name":  "Rookery Italic",
+        "file":  "Rookery-Italic.otf",
+        "size":  357496
+    },
+    {
+        "name":  "Rookery Medium",
+        "file":  "Rookery-Medium.otf",
+        "size":  329124
+    },
+    {
+        "name":  "Rookery Regular",
+        "file":  "Rookery-Regular.otf",
+        "size":  242716
+    },
+    {
+        "name":  "Roundheads",
+        "file":  "Roundheads.ttf",
+        "size":  46272
+    },
+    {
+        "name":  "SamsungOne 400",
+        "file":  "SamsungOne-400.ttf",
+        "size":  693980
+    },
+    {
+        "name":  "SamsungOne 700",
+        "file":  "SamsungOne-700.ttf",
+        "size":  692516
+    },
+    {
+        "name":  "SanFranciscoDisplayPro",
+        "file":  "SanFranciscoDisplayPro.ttf",
+        "size":  582016
+    },
+    {
+        "name":  "ScrapItUp",
+        "file":  "ScrapItUp.ttf",
+        "size":  42192
+    },
+    {
+        "name":  "SlateFromOP Light",
+        "file":  "SlateFromOP-Light.ttf",
+        "size":  38156
+    },
+    {
+        "name":  "SlateFromOP Regular",
+        "file":  "SlateFromOP-Regular.ttf",
+        "size":  37668
+    },
+    {
+        "name":  "slim",
+        "file":  "slim.ttf",
+        "size":  63116
+    },
+    {
+        "name":  "SonySketch",
+        "file":  "SonySketch.ttf",
+        "size":  183952
+    },
+    {
+        "name":  "SpaceGame",
+        "file":  "SpaceGame.ttf",
+        "size":  55352
+    },
+    {
+        "name":  "StandardHeader",
+        "file":  "StandardHeader.ttf",
+        "size":  612468
+    },
+    {
+        "name":  "Storopia",
+        "file":  "Storopia.ttf",
+        "size":  89888
+    },
+    {
+        "name":  "subway",
+        "file":  "subway.ttf",
+        "size":  70804
+    },
+    {
+        "name":  "Surfer",
+        "file":  "Surfer.ttf",
+        "size":  57792
+    },
+    {
+        "name":  "TH3MACHINE",
+        "file":  "TH3MACHINE.ttf",
+        "size":  178700
+    },
+    {
+        "name":  "Ubuntu",
+        "file":  "Ubuntu.ttf",
+        "size":  351884
+    },
+    {
+        "name":  "VTKSDURA3d",
+        "file":  "VTKSDURA3d.ttf",
+        "size":  150940
+    },
+    {
+        "name":  "ZnikomitNo24",
+        "file":  "ZnikomitNo24.ttf",
+        "size":  222004
+    }
+]
