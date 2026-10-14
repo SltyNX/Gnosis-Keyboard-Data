@@ -1,0 +1,35 @@
+[
+  {
+    "id": "vosk-model-small-en-us-0.15",
+    "displayName": "English (US)",
+    "languageTag": "en-US",
+    "version": "0.15",
+    "license": "Apache-2.0",
+    "sizeBytes": 41205931,
+    "fileName": "vosk-model-small-en-us-0.15.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-en-us-0.15.zip",
+    "description": "Lightweight US English offline model (~39 MB)"
+  },
+  {
+    "id": "vosk-model-small-hi-0.22",
+    "displayName": "Hindi (हिन्दी)",
+    "languageTag": "hi-IN",
+    "version": "0.22",
+    "license": "Apache-2.0",
+    "sizeBytes": 44458845,
+    "fileName": "vosk-model-small-hi-0.22.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-hi-0.22.zip",
+    "description": "Lightweight Hindi offline model (~42 MB)"
+  },
+  {
+    "id": "vosk-model-small-en-in-0.4",
+    "displayName": "Indian English",
+    "languageTag": "en-IN",
+    "version": "0.4",
+    "license": "Apache-2.0",
+    "sizeBytes": 37573330,
+    "fileName": "vosk-model-small-en-in-0.4.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-en-in-0.4.zip",
+    "description": "Lightweight Indian English offline model (~36 MB)"
+  }
+]
