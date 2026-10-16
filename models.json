@@ -1,35 +1,38 @@
 [
   {
-    "id": "vosk-model-small-en-us-0.15",
-    "displayName": "English (US)",
+    "id": "whisper-tiny",
+    "displayName": "Whisper Tiny (Multilingual)",
+    "languageTag": "multilingual",
+    "version": "1.0",
+    "license": "MIT",
+    "sizeBytes": 77662368,
+    "fileName": "ggml-tiny.bin",
+    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/ggml-tiny.bin",
+    "fallbackUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin",
+    "description": "Universal multilingual Whisper model (~75 MB) supporting 90+ languages (English, Hindi, Spanish, French, German, Arabic, Japanese, etc.)"
+  },
+  {
+    "id": "whisper-tiny-en",
+    "displayName": "Whisper Tiny (English Only)",
     "languageTag": "en-US",
-    "version": "0.15",
-    "license": "Apache-2.0",
-    "sizeBytes": 41205931,
-    "fileName": "vosk-model-small-en-us-0.15.zip",
-    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-en-us-0.15.zip",
-    "description": "Lightweight US English offline model (~39 MB)"
+    "version": "1.0",
+    "license": "MIT",
+    "sizeBytes": 77662368,
+    "fileName": "ggml-tiny.en.bin",
+    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/ggml-tiny.en.bin",
+    "fallbackUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.en.bin",
+    "description": "Ultra-fast compact Whisper model (~75 MB) tailored specifically for English typing"
   },
   {
-    "id": "vosk-model-small-hi-0.22",
-    "displayName": "Hindi (हिन्दी)",
-    "languageTag": "hi-IN",
-    "version": "0.22",
-    "license": "Apache-2.0",
-    "sizeBytes": 44458845,
-    "fileName": "vosk-model-small-hi-0.22.zip",
-    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-hi-0.22.zip",
-    "description": "Lightweight Hindi offline model (~42 MB)"
-  },
-  {
-    "id": "vosk-model-small-en-in-0.4",
-    "displayName": "Indian English",
-    "languageTag": "en-IN",
-    "version": "0.4",
-    "license": "Apache-2.0",
-    "sizeBytes": 37573330,
-    "fileName": "vosk-model-small-en-in-0.4.zip",
-    "downloadUrl": "https://raw.githubusercontent.com/SltyNX/Gnosis-Keyboard-Data/main/models/vosk-model-small-en-in-0.4.zip",
-    "description": "Lightweight Indian English offline model (~36 MB)"
+    "id": "whisper-base",
+    "displayName": "Whisper Base (High Precision)",
+    "languageTag": "multilingual",
+    "version": "1.0",
+    "license": "MIT",
+    "sizeBytes": 147951456,
+    "fileName": "ggml-base.bin",
+    "downloadUrl": "https://github.com/SltyNX/Gnosis-Keyboard-Data/releases/download/models-v1.0/ggml-base.bin",
+    "fallbackUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin",
+    "description": "High-accuracy multilingual Whisper model (~142 MB) with enhanced vocabulary and recognition of diverse accents"
   }
 ]
