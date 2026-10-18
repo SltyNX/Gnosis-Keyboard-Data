@@ -1,0 +1,10 @@
+[
+  {
+    "id": "hinglish",
+    "name": "Hinglish Auto-Correct & Suggestions",
+    "description": "Comprehensive Hindi-English romanized vocabulary extension",
+    "language": "Hinglish",
+    "wordCount": 4704,
+    "file": "Autocorrect/words_hinglish.txt"
+  }
+]
