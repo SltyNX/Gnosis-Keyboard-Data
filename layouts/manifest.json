@@ -2,16 +2,79 @@
   {
     "id": "qwertz",
     "name": "QWERTZ (German)",
-    "description": "Standard German keyboard layout",
+    "description": "Standard German keyboard layout (Deutsch)",
     "language": "German",
     "file": "qwertz.json"
   },
   {
     "id": "azerty",
     "name": "AZERTY (French)",
-    "description": "Standard French keyboard layout",
+    "description": "Standard French keyboard layout (Français)",
     "language": "French",
     "file": "azerty.json"
+  },
+  {
+    "id": "spanish",
+    "name": "Español (Spanish)",
+    "description": "Standard Spanish keyboard layout with ñ and punctuation",
+    "language": "Spanish",
+    "file": "spanish.json"
+  },
+  {
+    "id": "deva",
+    "name": "देवनागरी (Hindi Native)",
+    "description": "Native Hindi Devanagari script layout with matras and conjuncts",
+    "language": "Hindi",
+    "file": "deva.json"
+  },
+  {
+    "id": "russian",
+    "name": "Русский (Russian)",
+    "description": "Standard Russian Cyrillic layout (ЙЦУКЕН)",
+    "language": "Russian",
+    "file": "russian.json"
+  },
+  {
+    "id": "arabic",
+    "name": "العربية (Arabic)",
+    "description": "Standard Arabic keyboard layout",
+    "language": "Arabic",
+    "file": "arabic.json"
+  },
+  {
+    "id": "bengali",
+    "name": "বাংলা (Bengali)",
+    "description": "Standard Bengali script keyboard layout",
+    "language": "Bengali",
+    "file": "bengali.json"
+  },
+  {
+    "id": "tamil",
+    "name": "தமிழ் (Tamil)",
+    "description": "Standard Tamil script keyboard layout",
+    "language": "Tamil",
+    "file": "tamil.json"
+  },
+  {
+    "id": "telugu",
+    "name": "తెలుగు (Telugu)",
+    "description": "Standard Telugu script keyboard layout",
+    "language": "Telugu",
+    "file": "telugu.json"
+  },
+  {
+    "id": "portuguese",
+    "name": "Português (Portuguese)",
+    "description": "Standard Portuguese keyboard layout with ç",
+    "language": "Portuguese",
+    "file": "portuguese.json"
+  },
+  {
+    "id": "turkish",
+    "name": "Türkçe (Turkish)",
+    "description": "Standard Turkish Q keyboard layout with ğ, ü, ş, ı, ö, ç",
+    "language": "Turkish",
+    "file": "turkish.json"
   },
   {
     "id": "dvorak",
@@ -23,15 +86,8 @@
   {
     "id": "colemak",
     "name": "Colemak",
-    "description": "Modern ergonomic English layout",
+    "description": "Modern ergonomic English layout preserving shortcuts",
     "language": "English",
     "file": "colemak.json"
-  },
-  {
-    "id": "deva",
-    "name": "देवनागरी (Hindi Native)",
-    "description": "Native Hindi Devanagari script layout",
-    "language": "Hindi",
-    "file": "deva.json"
   }
 ]

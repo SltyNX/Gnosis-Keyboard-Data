@@ -2,8 +2,9 @@
   "id": "qwertz",
   "name": "QWERTZ (German)",
   "language": "German",
-  "spaceLabel": "LEER",
+  "spaceLabel": "Deutsch",
   "langLabel": "DE",
+  "isNonLatin": false,
   "rows": [
     "qwertzuiop",
     "asdfghjkl",
