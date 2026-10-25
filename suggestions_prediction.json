@@ -2,19 +2,37 @@
   {
     "id": "neural_transformer_stack_en",
     "name": "Standard Heavy Neural Stack (MiniLM / BERT)",
-    "description": "Full on-device deep transformer embedding weights & dense neural LM re-ranker for conversational context.",
+    "description": "Deep on-device Transformer attention matrix, dense vocabulary embeddings, and contextual re-ranker.",
     "category": "Deep Neural Stack",
-    "sizeBytes": 34603008,
-    "version": "1.0.0",
+    "sizeBytes": 1407602,
+    "version": "2.0.0",
     "file": "suggestions_prediction/neural_transformer_stack_en.json"
+  },
+  {
+    "id": "pure_algorithmic_engine_pack",
+    "name": "Pure Algorithmic Engine (Spatial + Trie + Kneser-Ney)",
+    "description": "2D Continuous Gaussian touch model, Damerau-Levenshtein cost matrices, and Kneser-Ney tables.",
+    "category": "Algorithmic Engine",
+    "sizeBytes": 40000,
+    "version": "2.0.0",
+    "file": "suggestions_prediction/pure_algorithmic_engine_pack.json"
+  },
+  {
+    "id": "korean_neural_pack_ko",
+    "name": "Korean Neural Language Pack (한국어)",
+    "description": "한국어 딥러닝 신경망 문맥 자동완성, 오타 교정, 자모 분해 및 n-gram 어휘 모델.",
+    "category": "Multilingual Neural",
+    "sizeBytes": 3020,
+    "version": "2.0.0",
+    "file": "suggestions_prediction/korean_neural_pack_ko.json"
   },
   {
     "id": "smart_reply_vector_en",
     "name": "Neural Semantic Smart Reply Engine",
     "description": "Zero-latency on-device semantic intent vectors and conversational smart completions.",
     "category": "Neural Intelligence",
-    "sizeBytes": 8598323,
-    "version": "1.0.0",
+    "sizeBytes": 4449,
+    "version": "2.0.0",
     "file": "suggestions_prediction/smart_reply_vector_en.json"
   },
   {
@@ -22,8 +40,8 @@
     "name": "Hinglish Neural Code-Switching Engine",
     "description": "Deep contextual transitions, romanized-to-devanagari transliteration, and colloquial Hinglish vocabulary.",
     "category": "Multilingual",
-    "sizeBytes": 4718592,
-    "version": "1.0.0",
+    "sizeBytes": 3698,
+    "version": "2.0.0",
     "file": "suggestions_prediction/hinglish_intelligence_pack.json"
   },
   {
@@ -31,8 +49,8 @@
     "name": "Contextual N-Gram Trigram Model",
     "description": "High-coverage bigram and trigram predictive model with Kneser-Ney smoothing.",
     "category": "Language Model",
-    "sizeBytes": 3984588,
-    "version": "1.0.0",
+    "sizeBytes": 3611,
+    "version": "2.0.0",
     "file": "suggestions_prediction/ngrams_expanded_en.json"
   },
   {
@@ -40,17 +58,8 @@
     "name": "Natural Language Semantic Emoji Search",
     "description": "Contextual semantic embedding lookup linking natural conversational phrases to relevant emoji sequences.",
     "category": "Semantic Vector",
-    "sizeBytes": 2516582,
-    "version": "1.0.0",
+    "sizeBytes": 4615,
+    "version": "2.0.0",
     "file": "suggestions_prediction/emoji_semantic_vectors.json"
-  },
-  {
-    "id": "pure_algorithmic_engine_pack",
-    "name": "Pure Algorithmic Engine (Spatial + Trie + Kneser-Ney)",
-    "description": "Precision 2D Gaussian touch calibration profiles, Damerau-Levenshtein edit-distance matrices, and Kneser-Ney backoff tables.",
-    "category": "Algorithmic Engine",
-    "sizeBytes": 1258291,
-    "version": "1.0.0",
-    "file": "suggestions_prediction/pure_algorithmic_engine_pack.json"
   }
 ]
