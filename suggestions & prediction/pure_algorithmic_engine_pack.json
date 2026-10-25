@@ -1,0 +1,207 @@
+{
+  "version": "1.0.0",
+  "id": "pure_algorithmic_engine_pack",
+  "name": "Pure Algorithmic Engine (Spatial + Trie + Kneser-Ney)",
+  "description": "Precision 2D Gaussian touch calibration profiles, Damerau-Levenshtein edit-distance matrices, and Kneser-Ney backoff tables.",
+  "category": "Algorithmic Engine",
+  "spatial_touch_gaussian": {
+    "sigma_x_normal": 0.055,
+    "sigma_y_normal": 0.08,
+    "sigma_x_compact": 0.062,
+    "sigma_y_compact": 0.088,
+    "sigma_x_tablet": 0.045,
+    "sigma_y_tablet": 0.068,
+    "touch_ellipse_aspect_ratio": 1.45,
+    "fat_finger_overlap_threshold": 0.22,
+    "key_centroids": {
+      "q": [
+        0.05,
+        0.18
+      ],
+      "w": [
+        0.15,
+        0.18
+      ],
+      "e": [
+        0.25,
+        0.18
+      ],
+      "r": [
+        0.35,
+        0.18
+      ],
+      "t": [
+        0.45,
+        0.18
+      ],
+      "y": [
+        0.55,
+        0.18
+      ],
+      "u": [
+        0.65,
+        0.18
+      ],
+      "i": [
+        0.75,
+        0.18
+      ],
+      "o": [
+        0.85,
+        0.18
+      ],
+      "p": [
+        0.95,
+        0.18
+      ],
+      "a": [
+        0.1,
+        0.5
+      ],
+      "s": [
+        0.2,
+        0.5
+      ],
+      "d": [
+        0.3,
+        0.5
+      ],
+      "f": [
+        0.4,
+        0.5
+      ],
+      "g": [
+        0.5,
+        0.5
+      ],
+      "h": [
+        0.6,
+        0.5
+      ],
+      "j": [
+        0.7,
+        0.5
+      ],
+      "k": [
+        0.8,
+        0.5
+      ],
+      "l": [
+        0.9,
+        0.5
+      ],
+      "z": [
+        0.2,
+        0.82
+      ],
+      "x": [
+        0.3,
+        0.82
+      ],
+      "c": [
+        0.4,
+        0.82
+      ],
+      "v": [
+        0.5,
+        0.82
+      ],
+      "b": [
+        0.6,
+        0.82
+      ],
+      "n": [
+        0.7,
+        0.82
+      ],
+      "m": [
+        0.8,
+        0.82
+      ]
+    }
+  },
+  "damerau_levenshtein_beam_search": {
+    "beam_width": 24,
+    "max_edit_distance": 2,
+    "transposition_cost": 0.65,
+    "omission_cost": 0.85,
+    "insertion_cost": 0.9,
+    "substitution_adjacent_cost": 0.45,
+    "substitution_distant_cost": 1.2,
+    "prefix_match_bonus": 1.15
+  },
+  "kneser_ney_language_model": {
+    "discount_d1": 0.75,
+    "discount_d2": 0.8,
+    "discount_d3": 0.85,
+    "unigram_continuation_weight": 0.4,
+    "bigram_continuation_weight": 0.35,
+    "trigram_continuation_weight": 0.25,
+    "continuation_probabilities": {
+      "i": {
+        "am": 0.42,
+        "will": 0.28,
+        "have": 0.18,
+        "would": 0.08,
+        "can": 0.04
+      },
+      "you": {
+        "are": 0.38,
+        "can": 0.22,
+        "have": 0.19,
+        "know": 0.12,
+        "want": 0.09
+      },
+      "we": {
+        "are": 0.35,
+        "can": 0.24,
+        "will": 0.21,
+        "have": 0.14,
+        "should": 0.06
+      },
+      "it": {
+        "is": 0.52,
+        "was": 0.28,
+        "will": 0.11,
+        "would": 0.06,
+        "has": 0.03
+      },
+      "they": {
+        "are": 0.44,
+        "were": 0.26,
+        "will": 0.16,
+        "have": 0.1,
+        "can": 0.04
+      },
+      "thank": {
+        "you": 0.94,
+        "god": 0.04,
+        "them": 0.02
+      },
+      "looking": {
+        "forward": 0.86,
+        "for": 0.09,
+        "at": 0.05
+      },
+      "how": {
+        "are": 0.48,
+        "is": 0.24,
+        "was": 0.14,
+        "do": 0.1,
+        "about": 0.04
+      },
+      "what": {
+        "do": 0.32,
+        "is": 0.29,
+        "are": 0.21,
+        "about": 0.11,
+        "time": 0.07
+      },
+      "let": {
+        "me": 0.78,
+        "us": 0.18,
+        "them": 0.04
+      }
+    }
+  }
+}
