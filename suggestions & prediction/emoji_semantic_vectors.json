@@ -1,0 +1,284 @@
+{
+  "version": "1.0.0",
+  "id": "emoji_semantic_vectors",
+  "name": "Natural Language Semantic Emoji Search",
+  "description": "Contextual semantic embedding lookup linking natural conversational phrases to relevant emoji sequences.",
+  "semantic_clusters": [
+    {
+      "concepts": [
+        "crying laughing",
+        "lol",
+        "lmao",
+        "rofl",
+        "hilarious",
+        "dead",
+        "too funny",
+        "haha",
+        "crack up"
+      ],
+      "emojis": [
+        "😂",
+        "🤣",
+        "💀",
+        "😭"
+      ]
+    },
+    {
+      "concepts": [
+        "fire",
+        "lit",
+        "awesome",
+        "incredible",
+        "insane",
+        "killing it",
+        "hyped",
+        "epic"
+      ],
+      "emojis": [
+        "🔥",
+        "⚡",
+        "🚀",
+        "✨",
+        "💯"
+      ]
+    },
+    {
+      "concepts": [
+        "love",
+        "heart",
+        "adore",
+        "miss you",
+        "sweetheart",
+        "darling",
+        "in love",
+        "crush"
+      ],
+      "emojis": [
+        "❤️",
+        "💖",
+        "🥰",
+        "😍",
+        "💕",
+        "😘"
+      ]
+    },
+    {
+      "concepts": [
+        "party",
+        "celebration",
+        "cheers",
+        "congrats",
+        "birthday",
+        "festive",
+        "clinking glasses"
+      ],
+      "emojis": [
+        "🎉",
+        "🥳",
+        "🍾",
+        "🍻",
+        "🎂",
+        "🥂"
+      ]
+    },
+    {
+      "concepts": [
+        "sad",
+        "depressed",
+        "heartbroken",
+        "crying",
+        "unhappy",
+        "bummed",
+        "tears",
+        "pain"
+      ],
+      "emojis": [
+        "😢",
+        "😭",
+        "💔",
+        "🥺",
+        "😞",
+        "😔"
+      ]
+    },
+    {
+      "concepts": [
+        "thinking",
+        "curious",
+        "hmm",
+        "pondering",
+        "wondering",
+        "skeptical",
+        "inspecting"
+      ],
+      "emojis": [
+        "🤔",
+        "🧐",
+        "💭",
+        "👀",
+        "🤨"
+      ]
+    },
+    {
+      "concepts": [
+        "angry",
+        "furious",
+        "mad",
+        "annoyed",
+        "frustrated",
+        "rage",
+        "pissed",
+        "steaming"
+      ],
+      "emojis": [
+        "😡",
+        "🤬",
+        "😤",
+        "💢",
+        "👿"
+      ]
+    },
+    {
+      "concepts": [
+        "sleepy",
+        "tired",
+        "good night",
+        "exhausted",
+        "bedtime",
+        "yawn",
+        "dozing off",
+        "sleep"
+      ],
+      "emojis": [
+        "😴",
+        "🥱",
+        "💤",
+        "🌙",
+        "🛌"
+      ]
+    },
+    {
+      "concepts": [
+        "eating",
+        "food",
+        "hungry",
+        "delicious",
+        "yum",
+        "burger",
+        "pizza",
+        "starving"
+      ],
+      "emojis": [
+        "🍔",
+        "🍕",
+        "🍜",
+        "🤤",
+        "😋",
+        "🍽️"
+      ]
+    },
+    {
+      "concepts": [
+        "coffee",
+        "tea",
+        "cafe",
+        "cappuccino",
+        "morning brew",
+        "chai",
+        "latte"
+      ],
+      "emojis": [
+        "☕",
+        "🍵",
+        "🧋"
+      ]
+    },
+    {
+      "concepts": [
+        "money",
+        "rich",
+        "wealth",
+        "cash",
+        "crypto",
+        "payday",
+        "expensive",
+        "dollar"
+      ],
+      "emojis": [
+        "💰",
+        "💵",
+        "🤑",
+        "💎",
+        "💳"
+      ]
+    },
+    {
+      "concepts": [
+        "thumbs up",
+        "agree",
+        "approved",
+        "ok",
+        "cool",
+        "done deal",
+        "affirmative"
+      ],
+      "emojis": [
+        "👍",
+        "👌",
+        "✅",
+        "🙌",
+        "🤝"
+      ]
+    },
+    {
+      "concepts": [
+        "shocked",
+        "surprised",
+        "mind blown",
+        "omg",
+        "wow",
+        "unbelievable",
+        "gasp"
+      ],
+      "emojis": [
+        "🤯",
+        "😱",
+        "😲",
+        "🙀",
+        "⚡"
+      ]
+    },
+    {
+      "concepts": [
+        "cold",
+        "freezing",
+        "winter",
+        "chilly",
+        "ice",
+        "snow"
+      ],
+      "emojis": [
+        "🥶",
+        "❄️",
+        "🧊",
+        "⛄"
+      ]
+    },
+    {
+      "concepts": [
+        "hot",
+        "sweating",
+        "summer",
+        "sunny",
+        "boiling",
+        "heat wave"
+      ],
+      "emojis": [
+        "🥵",
+        "☀️",
+        "🌡️",
+        "🏖️"
+      ]
+    }
+  ]
+}

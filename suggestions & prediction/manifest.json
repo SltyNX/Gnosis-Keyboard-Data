@@ -1,0 +1,38 @@
+[
+  {
+    "id": "smart_reply_vector_en",
+    "name": "Neural Semantic Smart Reply Engine",
+    "description": "Zero-latency on-device semantic intent vectors and conversational smart completions.",
+    "category": "Neural Intelligence",
+    "sizeBytes": 2169,
+    "version": "1.0.0",
+    "file": "smart_reply_vector_en.json"
+  },
+  {
+    "id": "ngrams_expanded_en",
+    "name": "Contextual N-Gram Trigram Model",
+    "description": "High-coverage bigram and trigram predictive model with Kneser-Ney smoothing.",
+    "category": "Language Model",
+    "sizeBytes": 1779,
+    "version": "1.0.0",
+    "file": "ngrams_expanded_en.json"
+  },
+  {
+    "id": "hinglish_intelligence_pack",
+    "name": "Hinglish Neural Code-Switching Engine",
+    "description": "Deep contextual transitions, romanized-to-devanagari transliteration, and colloquial Hinglish vocabulary.",
+    "category": "Multilingual",
+    "sizeBytes": 1498,
+    "version": "1.0.0",
+    "file": "hinglish_intelligence_pack.json"
+  },
+  {
+    "id": "emoji_semantic_vectors",
+    "name": "Natural Language Semantic Emoji Search",
+    "description": "Contextual semantic embedding lookup linking natural conversational phrases to relevant emoji sequences.",
+    "category": "Semantic Vector",
+    "sizeBytes": 2228,
+    "version": "1.0.0",
+    "file": "emoji_semantic_vectors.json"
+  }
+]

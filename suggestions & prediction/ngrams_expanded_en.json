@@ -1,0 +1,136 @@
+{
+  "version": "1.0.0",
+  "id": "ngrams_expanded_en",
+  "name": "Contextual N-Gram Trigram Model",
+  "description": "High-coverage bigram and trigram predictive model with Kneser-Ney smoothing.",
+  "transitions": {
+    "i am": [
+      "going to",
+      "looking for",
+      "glad that",
+      "happy to",
+      "wondering if",
+      "excited about",
+      "sure that",
+      "on my way"
+    ],
+    "how are": [
+      "you doing",
+      "you feeling",
+      "things going",
+      "you today",
+      "your family"
+    ],
+    "thank you": [
+      "so much",
+      "for your help",
+      "very much",
+      "for reaching out",
+      "in advance"
+    ],
+    "looking forward": [
+      "to hearing from you",
+      "to seeing you",
+      "to our meeting",
+      "to working together"
+    ],
+    "let me": [
+      "know if you need",
+      "know what you think",
+      "check and get back",
+      "see what I can do"
+    ],
+    "can you": [
+      "please send me",
+      "let me know",
+      "help me with",
+      "call me when free",
+      "check this out"
+    ],
+    "have a": [
+      "great day",
+      "wonderful weekend",
+      "safe flight",
+      "good night",
+      "fantastic time"
+    ],
+    "what do": [
+      "you think about",
+      "you mean by",
+      "we need to",
+      "you want to do"
+    ],
+    "on my": [
+      "way home",
+      "way right now",
+      "mind lately",
+      "own today"
+    ],
+    "in the": [
+      "morning",
+      "afternoon",
+      "evening",
+      "meantime",
+      "future",
+      "middle of"
+    ],
+    "at the": [
+      "moment",
+      "same time",
+      "end of the day",
+      "office",
+      "airport",
+      "station"
+    ],
+    "as soon as": [
+      "possible",
+      "you can",
+      "I get there",
+      "we finish"
+    ],
+    "it was": [
+      "great meeting you",
+      "nice talking to you",
+      "a pleasure",
+      "wonderful to see you"
+    ],
+    "please let": [
+      "me know if",
+      "us know your thoughts",
+      "them know right away"
+    ],
+    "hope you": [
+      "are doing well",
+      "have a great day",
+      "are having fun",
+      "feel better soon"
+    ],
+    "would you": [
+      "like to meet",
+      "be interested in",
+      "mind helping me",
+      "prefer to talk"
+    ],
+    "good morning": [
+      "everyone",
+      "have a great day",
+      "hope you slept well"
+    ],
+    "good night": [
+      "sweet dreams",
+      "sleep well",
+      "talk tomorrow"
+    ],
+    "see you": [
+      "later today",
+      "tomorrow morning",
+      "soon buddy",
+      "next week"
+    ],
+    "take care": [
+      "and talk soon",
+      "of yourself",
+      "have fun"
+    ]
+  }
+}

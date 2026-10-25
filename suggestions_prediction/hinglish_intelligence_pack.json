@@ -1,0 +1,102 @@
+{
+  "version": "1.0.0",
+  "id": "hinglish_intelligence_pack",
+  "name": "Hinglish Neural Code-Switching Engine",
+  "description": "Deep contextual transitions, romanized-to-devanagari transliteration, and colloquial Hinglish vocabulary.",
+  "transitions": {
+    "kya": [
+      "haal hai",
+      "kar rahe ho",
+      "baat hai",
+      "plan hai",
+      "chal raha hai",
+      "scene hai"
+    ],
+    "kaha": [
+      "ho bhai",
+      "ja rahe ho",
+      "par milna hai",
+      "pahunch gaye",
+      "ho yaar"
+    ],
+    "kaise": [
+      "ho aap",
+      "karna hai",
+      "chal raha hai sab",
+      "ho bhai"
+    ],
+    "theek": [
+      "hai bhai",
+      "hai samajh gaya",
+      "thak hu",
+      "hai done"
+    ],
+    "aaj": [
+      "milte hai",
+      "shaam ko",
+      "raat ko",
+      "ka kya plan hai",
+      "office me hu"
+    ],
+    "kal": [
+      "baat karte hai",
+      "subah milte hai",
+      "chutti hai",
+      "pakka aunga"
+    ],
+    "jaldi": [
+      "aao bhai",
+      "karo late ho raha hai",
+      "batao kya karna hai"
+    ],
+    "kuch": [
+      "kaam tha",
+      "nahi bhai",
+      "naya batao",
+      "chahiye kya"
+    ],
+    "mujhe": [
+      "bhi aana hai",
+      "nahi pata tha",
+      "bhej do",
+      "call karo"
+    ],
+    "bhai": [
+      "kaha ho",
+      "ek help chahiye",
+      "sun na",
+      "kya chal raha hai",
+      "sahi hai"
+    ],
+    "mai": [
+      "bhi aa raha hu",
+      "ghar par hu",
+      "theek hu",
+      "nikal gaya hu"
+    ],
+    "haan": [
+      "bhai bilkul",
+      "samajh gaya",
+      "pakka done",
+      "mai wahi hu"
+    ]
+  },
+  "transliterations": {
+    "namaste": "नमस्ते",
+    "dhanyawad": "धन्यवाद",
+    "shukriya": "शुक्रिया",
+    "theek": "ठीक",
+    "accha": "अच्छा",
+    "bahut": "बहुत",
+    "kya": "क्या",
+    "kaise": "कैसे",
+    "kaha": "कहाँ",
+    "bhai": "भाई",
+    "dost": "दोस्त",
+    "pyaar": "प्यार",
+    "zindagi": "ज़िंदगी",
+    "khushi": "ख़ुशी",
+    "shanti": "शांति",
+    "bharat": "भारत"
+  }
+}

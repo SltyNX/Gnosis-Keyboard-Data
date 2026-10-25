@@ -1,0 +1,153 @@
+{
+  "version": "1.0.0",
+  "id": "smart_reply_vector_en",
+  "name": "Neural Semantic Smart Reply & Intent Engine",
+  "description": "Zero-latency on-device semantic intent vectors and conversational smart completions.",
+  "intents": [
+    {
+      "intent": "greeting",
+      "keywords": [
+        "hello",
+        "hi",
+        "hey",
+        "morning",
+        "evening",
+        "greetings",
+        "yo"
+      ],
+      "replies": [
+        "Hey there! How's your day going?",
+        "Hello! Hope you are having a wonderful day.",
+        "Hi! How can I help you?",
+        "Good morning!"
+      ]
+    },
+    {
+      "intent": "acknowledgment",
+      "keywords": [
+        "ok",
+        "okay",
+        "alright",
+        "got it",
+        "understood",
+        "noted",
+        "cool",
+        "fine"
+      ],
+      "replies": [
+        "Got it, sounds great!",
+        "Understood, will take care of it.",
+        "Perfect, appreciate the update.",
+        "Noted with thanks!"
+      ]
+    },
+    {
+      "intent": "agreement",
+      "keywords": [
+        "yes",
+        "yeah",
+        "definitely",
+        "agree",
+        "sure",
+        "absolutely",
+        "yep",
+        "certainly"
+      ],
+      "replies": [
+        "Yes, absolutely!",
+        "Sounds like a solid plan.",
+        "I completely agree.",
+        "Count me in!"
+      ]
+    },
+    {
+      "intent": "decline",
+      "keywords": [
+        "no",
+        "nope",
+        "busy",
+        "cannot",
+        "can't",
+        "unavailable",
+        "reschedule",
+        "sorry"
+      ],
+      "replies": [
+        "Sorry, I won't be able to make it.",
+        "I'm tied up right now, can we catch up later?",
+        "Unfortunately I have a conflict then.",
+        "Let's reschedule for later this week."
+      ]
+    },
+    {
+      "intent": "gratitude",
+      "keywords": [
+        "thanks",
+        "thank you",
+        "thx",
+        "appreciate",
+        "grateful",
+        "cheers"
+      ],
+      "replies": [
+        "You're very welcome!",
+        "Glad I could help!",
+        "Anytime! Let me know if you need anything else.",
+        "Much appreciated!"
+      ]
+    },
+    {
+      "intent": "status_check",
+      "keywords": [
+        "where are you",
+        "what's the update",
+        "eta",
+        "status",
+        "progress",
+        "how long"
+      ],
+      "replies": [
+        "Almost there, arriving in 5 minutes!",
+        "On my way right now.",
+        "Making good progress, will share an update shortly.",
+        "Just wrapping up, heading your way."
+      ]
+    },
+    {
+      "intent": "scheduling",
+      "keywords": [
+        "meet",
+        "meeting",
+        "call",
+        "catch up",
+        "zoom",
+        "tomorrow",
+        "time",
+        "schedule"
+      ],
+      "replies": [
+        "Let's schedule a call tomorrow afternoon.",
+        "Does 3:00 PM work for you?",
+        "Let me check my calendar and confirm.",
+        "Looking forward to catching up!"
+      ]
+    },
+    {
+      "intent": "congratulations",
+      "keywords": [
+        "congrats",
+        "congratulations",
+        "proud",
+        "kudos",
+        "well done",
+        "awesome"
+      ],
+      "replies": [
+        "Huge congratulations! Well deserved!",
+        "So happy for you!",
+        "Kudos on the great achievement!",
+        "Amazing work, keep it up!"
+      ]
+    }
+  ]
+}
