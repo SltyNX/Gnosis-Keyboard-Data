@@ -1,0 +1,84 @@
+{
+  "id": "tr",
+  "code": "tr",
+  "name": "Turkish",
+  "nativeName": "Türkçe",
+  "description": "Turkish vocabulary with vowel harmony and specific letters (ğ, ü, ş, ı, ö, ç).",
+  "words": [
+    "akşam",
+    "arkadaş",
+    "ben",
+    "bilmek",
+    "bir",
+    "biz",
+    "bu",
+    "da",
+    "de",
+    "dünya",
+    "ederim",
+    "ev",
+    "evet",
+    "gece",
+    "gelmek",
+    "gitmek",
+    "görmek",
+    "gün",
+    "güzel",
+    "hayat",
+    "hayır",
+    "insan",
+    "istemek",
+    "iyi",
+    "iyiyim",
+    "için",
+    "iş",
+    "ler",
+    "merhaba",
+    "nasıl",
+    "o",
+    "onlar",
+    "sabah",
+    "selam",
+    "sen",
+    "siz",
+    "sın",
+    "sınız",
+    "teşekkür",
+    "ve",
+    "yapmak",
+    "zaman",
+    "çok"
+  ],
+  "contractions": {
+    "tşk": "teşekkürler",
+    "mrb": "merhaba",
+    "slm": "selam",
+    "nbr": "ne haber",
+    "kib": "kendine iyi bak"
+  },
+  "transitions": {
+    "merhaba": [
+      "nasıl",
+      "arkadaşlar",
+      "nasılsın"
+    ],
+    "nasıl": [
+      "sınız",
+      "sın",
+      "gitti",
+      "oldu"
+    ],
+    "çok": [
+      "teşekkürler",
+      "güzel",
+      "iyi",
+      "sağol"
+    ],
+    "iyi": [
+      "günler",
+      "akşamlar",
+      "geceler",
+      "şanslar"
+    ]
+  }
+}

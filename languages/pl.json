@@ -1,0 +1,63 @@
+{
+  "id": "pl",
+  "code": "pl",
+  "name": "Polish",
+  "nativeName": "Polski",
+  "description": "Polish vocabulary with diacritics (ą, ć, ę, ł, ń, ó, ś, ź, ż) and grammatical cases.",
+  "words": [
+    "chcieć",
+    "co",
+    "czas",
+    "cześć",
+    "dobry",
+    "dobrze",
+    "dom",
+    "dzień",
+    "dziękuję",
+    "iść",
+    "jak",
+    "ludzie",
+    "masz",
+    "moja",
+    "móc",
+    "mój",
+    "nie",
+    "praca",
+    "proszę",
+    "przyjaciel",
+    "przyjść",
+    "robić",
+    "się",
+    "słychać",
+    "tak",
+    "tam",
+    "twoja",
+    "widzieć",
+    "wiedzieć",
+    "świat",
+    "życie"
+  ],
+  "contractions": {
+    "thx": "dziękuję",
+    "pzdr": "pozdrawiam",
+    "nara": "na razie"
+  },
+  "transitions": {
+    "dzień": [
+      "dobry"
+    ],
+    "jak": [
+      "się",
+      "tam",
+      "leci"
+    ],
+    "bardzo": [
+      "dziękuję",
+      "dobrze"
+    ],
+    "do": [
+      "widzenia",
+      "zobaczenia"
+    ]
+  }
+}

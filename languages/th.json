@@ -1,0 +1,56 @@
+{
+  "id": "th",
+  "code": "th",
+  "name": "Thai (Romaji)",
+  "nativeName": "ไทย (Romaji)",
+  "description": "Romanized Thai conversational terms and daily chat expressions.",
+  "words": [
+    "aroi",
+    "baan",
+    "chai",
+    "chan",
+    "cheewit",
+    "dee",
+    "hen",
+    "ja",
+    "jing",
+    "ka",
+    "khon",
+    "khopkhun",
+    "khun",
+    "kor",
+    "krub",
+    "lok",
+    "maa",
+    "mai",
+    "mak",
+    "na",
+    "ngaan",
+    "pai",
+    "phom",
+    "raak",
+    "roo",
+    "sabai",
+    "sawasdee",
+    "tham",
+    "thot",
+    "welaa",
+    "yaak"
+  ],
+  "contractions": {},
+  "transitions": {
+    "sawasdee": [
+      "krub",
+      "ka"
+    ],
+    "khopkhun": [
+      "krub",
+      "ka",
+      "mak"
+    ],
+    "sabai": [
+      "dee",
+      "mai"
+    ]
+  }
+}

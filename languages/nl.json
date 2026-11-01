@@ -1,0 +1,68 @@
+{
+  "id": "nl",
+  "code": "nl",
+  "name": "Dutch",
+  "nativeName": "Nederlands",
+  "description": "Dutch vocabulary with contractions ('s morgens, 't, z'n) and common transitions.",
+  "words": [
+    "alsjeblieft",
+    "alstublieft",
+    "avond",
+    "dag",
+    "dank",
+    "doen",
+    "gaan",
+    "gaat",
+    "goed",
+    "hallo",
+    "het",
+    "hoe",
+    "hoi",
+    "huis",
+    "ja",
+    "je",
+    "komen",
+    "kunnen",
+    "leven",
+    "mensen",
+    "middag",
+    "morgen",
+    "nacht",
+    "nee",
+    "tijd",
+    "vriend",
+    "wel",
+    "wereld",
+    "werk",
+    "weten",
+    "willen",
+    "zien"
+  ],
+  "contractions": {
+    "smorgens": "'s morgens",
+    "savonds": "'s avonds",
+    "t": "'t",
+    "zn": "z'n",
+    "mn": "m'n"
+  },
+  "transitions": {
+    "hallo": [
+      "hoe",
+      "allemaal",
+      "ik"
+    ],
+    "hoe": [
+      "gaat",
+      "is",
+      "was"
+    ],
+    "goedemorgen": [
+      "allemaal",
+      "vrienden"
+    ],
+    "dank": [
+      "je",
+      "u"
+    ]
+  }
+}

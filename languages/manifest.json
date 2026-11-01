@@ -1,0 +1,182 @@
+[
+  {
+    "id": "hg_in",
+    "code": "hg_in",
+    "name": "Hinglish (Hindi-English)",
+    "nativeName": "हिंग्लिश / Hinglish",
+    "description": "Colloquial romanized Hindi vocabulary, slangs, chat contractions, and dual-language predictions.",
+    "wordCount": 4712,
+    "file": "hg_in.json",
+    "sizeBytes": 74036
+  },
+  {
+    "id": "en",
+    "code": "en",
+    "name": "English (US / UK)",
+    "nativeName": "English",
+    "description": "Comprehensive English lexicon with standard apostrophe contractions and N-gram transitions.",
+    "wordCount": 10000,
+    "file": "en.json",
+    "sizeBytes": 155363
+  },
+  {
+    "id": "de",
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "description": "German vocabulary with umlauts (ä, ö, ü, ß), compound word support, and contractions.",
+    "wordCount": 1401,
+    "file": "de.json",
+    "sizeBytes": 21354
+  },
+  {
+    "id": "fr_fr",
+    "code": "fr_fr",
+    "name": "French",
+    "nativeName": "Français",
+    "description": "French vocabulary with elisions (c'est, j'ai, d'accord, l'on) and grammatical agreements.",
+    "wordCount": 1057,
+    "file": "fr_fr.json",
+    "sizeBytes": 15719
+  },
+  {
+    "id": "es",
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "description": "Spanish dictionary with accented characters (ñ, á, é, í, ó, ú) and conversational phrases.",
+    "wordCount": 1163,
+    "file": "es.json",
+    "sizeBytes": 17181
+  },
+  {
+    "id": "it",
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "description": "Italian vocabulary with apostrophe elisions (un'altra, c'è, dell') and common phrases.",
+    "wordCount": 1143,
+    "file": "it.json",
+    "sizeBytes": 16787
+  },
+  {
+    "id": "pt_br",
+    "code": "pt_br",
+    "name": "Portuguese (Brazil)",
+    "nativeName": "Português (Brasil)",
+    "description": "Brazilian Portuguese dictionary with nasal vowels, colloquial chat words, and contractions.",
+    "wordCount": 1135,
+    "file": "pt_br.json",
+    "sizeBytes": 16832
+  },
+  {
+    "id": "pt_pt",
+    "code": "pt_pt",
+    "name": "Portuguese (Portugal)",
+    "nativeName": "Português (Portugal)",
+    "description": "European Portuguese vocabulary with enclitic hyphens and formal expressions.",
+    "wordCount": 1124,
+    "file": "pt_pt.json",
+    "sizeBytes": 16349
+  },
+  {
+    "id": "ru",
+    "code": "ru",
+    "name": "Russian",
+    "nativeName": "Русский",
+    "description": "Standard Russian Cyrillic vocabulary with declensions, common idioms, and transitions.",
+    "wordCount": 347,
+    "file": "ru.json",
+    "sizeBytes": 6107
+  },
+  {
+    "id": "ar",
+    "code": "ar",
+    "name": "Arabic",
+    "nativeName": "العربية",
+    "description": "Standard Modern Arabic vocabulary, diacritic-tolerant roots, and contextual predictions.",
+    "wordCount": 203,
+    "file": "ar.json",
+    "sizeBytes": 3517
+  },
+  {
+    "id": "tr",
+    "code": "tr",
+    "name": "Turkish",
+    "nativeName": "Türkçe",
+    "description": "Turkish vocabulary with vowel harmony and specific letters (ğ, ü, ş, ı, ö, ç).",
+    "wordCount": 43,
+    "file": "tr.json",
+    "sizeBytes": 1343
+  },
+  {
+    "id": "nl",
+    "code": "nl",
+    "name": "Dutch",
+    "nativeName": "Nederlands",
+    "description": "Dutch vocabulary with contractions ('s morgens, 't, z'n) and common transitions.",
+    "wordCount": 32,
+    "file": "nl.json",
+    "sizeBytes": 1056
+  },
+  {
+    "id": "pl",
+    "code": "pl",
+    "name": "Polish",
+    "nativeName": "Polski",
+    "description": "Polish vocabulary with diacritics (ą, ć, ę, ł, ń, ó, ś, ź, ż) and grammatical cases.",
+    "wordCount": 31,
+    "file": "pl.json",
+    "sizeBytes": 1025
+  },
+  {
+    "id": "fa",
+    "code": "fa",
+    "name": "Persian / Farsi",
+    "nativeName": "فارسی",
+    "description": "Persian vocabulary and modern conversational expressions.",
+    "wordCount": 237,
+    "file": "fa.json",
+    "sizeBytes": 3751
+  },
+  {
+    "id": "ja",
+    "code": "ja",
+    "name": "Japanese (Romaji)",
+    "nativeName": "日本語 (Romaji)",
+    "description": "Romanized Japanese vocabulary, everyday honorifics, and phrase patterns.",
+    "wordCount": 132,
+    "file": "ja.json",
+    "sizeBytes": 2221
+  },
+  {
+    "id": "ko",
+    "code": "ko",
+    "name": "Korean (Romaji)",
+    "nativeName": "한국어 (Romaji)",
+    "description": "Romanized Korean vocabulary, standard conversational terms, and greetings.",
+    "wordCount": 118,
+    "file": "ko.json",
+    "sizeBytes": 1885
+  },
+  {
+    "id": "th",
+    "code": "th",
+    "name": "Thai (Romaji)",
+    "nativeName": "ไทย (Romaji)",
+    "description": "Romanized Thai conversational terms and daily chat expressions.",
+    "wordCount": 31,
+    "file": "th.json",
+    "sizeBytes": 829
+  },
+  {
+    "id": "vi",
+    "code": "vi",
+    "name": "Vietnamese",
+    "nativeName": "Tiếng Việt",
+    "description": "Vietnamese vocabulary with standard tone marks and common transitions.",
+    "wordCount": 34,
+    "file": "vi.json",
+    "sizeBytes": 1044
+  }
+]

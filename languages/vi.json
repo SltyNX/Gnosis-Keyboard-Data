@@ -1,0 +1,67 @@
+{
+  "id": "vi",
+  "code": "vi",
+  "name": "Vietnamese",
+  "nativeName": "Tiếng Việt",
+  "description": "Vietnamese vocabulary with standard tone marks and common transitions.",
+  "words": [
+    "biết",
+    "biệt",
+    "bạn",
+    "chào",
+    "cuộc",
+    "có",
+    "cảm",
+    "gian",
+    "giới",
+    "gì",
+    "gặp",
+    "không",
+    "khỏe",
+    "làm",
+    "muốn",
+    "người",
+    "nhà",
+    "rất",
+    "sống",
+    "thương",
+    "thấy",
+    "thế",
+    "thời",
+    "tôi",
+    "tạm",
+    "việc",
+    "vui",
+    "xin",
+    "yêu",
+    "đi",
+    "được",
+    "đẹp",
+    "đến",
+    "ơn"
+  ],
+  "contractions": {
+    "ko": "không",
+    "k": "không",
+    "dc": "được",
+    "tks": "cảm ơn"
+  },
+  "transitions": {
+    "xin": [
+      "chào",
+      "lỗi"
+    ],
+    "cảm": [
+      "ơn"
+    ],
+    "rất": [
+      "vui",
+      "tốt",
+      "đẹp",
+      "khỏe"
+    ],
+    "tạm": [
+      "biệt"
+    ]
+  }
+}
